@@ -108,7 +108,6 @@ function App() {
                             )}
                         </>
                     )}
-                    component={About}
                 />
                 <Route path="/about" component={About} />
                 <Footer />
