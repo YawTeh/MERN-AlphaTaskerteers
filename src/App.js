@@ -3,6 +3,8 @@ import Header from "./components/Header";
 import Tasks from "./components/Tasks";
 import AddTask from "./components/AddTask";
 import Footer from "./components/Footer";
+import About from "./components/About";
+
 
 function App() {
     const [showAddTask, setShowAddTask] = useState(false);
